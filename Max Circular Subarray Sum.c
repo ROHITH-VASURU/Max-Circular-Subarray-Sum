@@ -9,7 +9,7 @@ int main(void)
 }
 
 int maxSubarraySumCircular(int array[], int n){
-    int max = 0;
+  int max = 0;
   int a[n];
   for(size_t i=0; i < n; i++)
   {
